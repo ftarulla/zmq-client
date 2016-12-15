@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ftarulla/zmq-client/issues"
   },
-  "homepage": "https://github.com/ftarulla/zmq-client#readme"
+  "homepage": "https://github.com/ftarulla/zmq-client#readme",
+  "dependencies": {
+    "zmq": "^2.15.3"
+  }
 }
